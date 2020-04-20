@@ -9,7 +9,7 @@ class Contact extends Component {
   constructor() {
     super();
     this.state = {
-      showContactInfo: true,
+      showContactInfo: false,
     };
   }
 
